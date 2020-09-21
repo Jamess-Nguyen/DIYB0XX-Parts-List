@@ -37,7 +37,9 @@ Parts I had on hand:
   
  - Soldering Iron (w/Solder)
 
-    - I used a super cheap one I found in my dads garage. If It burns it works as far as I can tell.
+    - I used a super cheap one I found in my dads garage. As far as I can tell, if it burns it works.
+    
+   
   
   
   
