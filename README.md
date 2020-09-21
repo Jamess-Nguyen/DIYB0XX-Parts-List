@@ -1,6 +1,7 @@
 Parts Used In the Video:
 
 From Amazon:
+
 -- Arduino: (https://www.amazon.com/gp/product/B00J1X5B7Y/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1)
 
 -- Logic Coverter: (https://www.amazon.com/gp/product/B0148BLZGE/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
