@@ -12,11 +12,11 @@ From Amazon:
 
  - x2 Buttons: (https://www.amazon.com/gp/product/B01LWQ9YN5/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
  
-These buttons suck, but they are very cheap. You'll need to order two sets to get 20; however, I don't reccommend using these cause there are way better ones out there.
+    - These buttons suck, but they are very cheap. You'll need to order two sets to get 20; however, I don't reccommend using these cause there are way better ones out there.
 
  - Chessboard: (https://www.amazon.com/gp/product/B0198737KU/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
-I would reccomend looking for a sturdier boardl; however, this is box is relatievly cheap and is the perfect size.
+    - I would reccomend looking for a sturdier boardl; however, this is box is relatievly cheap and is the perfect size.
 
 From FocusAttack:
 
@@ -37,7 +37,7 @@ Parts I had on hand:
   
  - Soldering Iron (w/Solder)
 
-I used a super cheap one I found in my dads garage. If It burns it works as far as I can tell.
+    - I used a super cheap one I found in my dads garage. If It burns it works as far as I can tell.
   
   
   
